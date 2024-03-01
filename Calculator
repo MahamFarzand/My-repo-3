@@ -3,3 +3,4 @@ cout<<"My roll no is:"23-st-025";
 cout<<"This will add two numbers:"<<"a and b";
 cout<<"This will subtract two numbers:"<<"a and b";
 cout<<"This will multiply two numbers:<<"a and b";
+cout<<"This will divide two numbers:"a and b";
